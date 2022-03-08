@@ -6,16 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-03-07T17:06:09-07:00"
+      "last_modified": "2022-03-07T17:55:59-07:00"
     },
     {
       "path": "index.html",
-      "title": "Mars Biziyabal",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Recent Posts",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-03-07T17:06:10-07:00"
+      "last_modified": "2022-03-07T17:56:00-07:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
